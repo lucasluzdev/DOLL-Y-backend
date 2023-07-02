@@ -1,4 +1,8 @@
 # DOLL-Y (Backend API)
+
+## Live preview
+[Click here to see the project running](https://doll-y-luluzdev.vercel.app)
+
 ![Image Generation App](./docs/doll-y.png)
 
 ## Description
